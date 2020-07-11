@@ -95,9 +95,9 @@ class LinkList
       first = null;
    }
    
-   public LinkList(Order [] a, Order [] b)
+   public LinkList(Order [] a)
 {
-  arrayList = new Order(a,b);
+ ***************
 }
    
    
